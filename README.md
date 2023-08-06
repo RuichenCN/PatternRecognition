@@ -205,11 +205,11 @@ Different colors represent different patterns
 * What you will get:   
   <img width="560" alt="Screenshot 2023-08-06 at 12 31 59 PM" src="https://github.com/RuichenCN/PatternRecognitionProject/assets/113652310/27a8c001-fd3a-4146-a5bc-fee7a616a7d2">
 
-## Reference
+## References
   [Gaussian Filter](https://en.wikipedia.org/wiki/Gaussian_filter)  
   [Histogram](https://aishack.in/tutorials/histograms-simplest-complex/)  
   [Threshold](https://docs.opencv.org/4.x/d7/d1b/group__imgproc__misc.html#ggaa9e58d2860d4afa658ef7)  
   [Connectivity Analysis](https://iq.opengenus.org/connected-component-labeling/)  
   [Pattern Recognition](https://pysource.com/2018/09/25/simple-shape-detection-opencv-with-python-3/)  
 ## Acknowledge
-  Dr. Henry Chang
+  Thank **Dr. Henry Chang** for his detailed guidance
