@@ -212,5 +212,5 @@ Different colors represent different patterns
   [Connectivity Analysis](https://iq.opengenus.org/connected-component-labeling/)  
   [Pattern Recognition](https://pysource.com/2018/09/25/simple-shape-detection-opencv-with-python-3/)  
 ## Acknowledge
-  Thank **Dr. Henry Chang** for his detailed guidance
+  Thank **Dr. Henry Chang** for his detailed guidance   
    Thank you Mikaela Montaos
