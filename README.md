@@ -1,5 +1,5 @@
 # Presentation
-[Google Slides](https://docs.google.com/presentation/d/1yHWKIPSJZeGnE_Z-sF241x8z34RcwTYgR_yRmU15R1g/edit?usp=sharing) 
+[Google Slides Presentation](https://docs.google.com/presentation/d/1yHWKIPSJZeGnE_Z-sF241x8z34RcwTYgR_yRmU15R1g/edit?usp=sharing) 
 # PatternRecognition
 Pattern recognition using OpenCV
 ## Requirement Analysis
